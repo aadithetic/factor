@@ -37,7 +37,7 @@ ses = requests.Session()
 def menu():
     try:
         os.system('clear')
-        print (MADE BY AADI MALIK)
+        print ()
         print ('[1] Auto 2f ON')
         print ('[2] Password change')
         print ('[0] Exit Tool')
